@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/img01"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="auxilium"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="150px"
+        app:fontFamily="sans-serif" />
+
+    <Button
+        android:id="@+id/bttnprecaution"
+        android:layout_width="310dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="140px"
+        android:text="Disaster Precautions" />
+
+    <Button
+        android:id="@+id/bttnhelp"
+        android:layout_width="310dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50px"
+        android:text="Call For Help" />
+
+    <Button
+        android:id="@+id/bttnrelief"
+        android:layout_width="310dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50px"
+        android:text="Relief Camp" />
+
+    <Button
+        android:id="@+id/bttnfind"
+        android:layout_width="310dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50px"
+        android:text="Find People" />
+
+    <Button
+        android:id="@+id/bttnhelper"
+        android:layout_width="310dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50px"
+        android:text="Register as Helper"  />
+</LinearLayout>

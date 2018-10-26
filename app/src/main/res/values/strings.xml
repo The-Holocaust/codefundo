@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">codefundo</string>
+    <string-array name="disaster_array">
+        <item>Earthquake</item>
+        <item>Tsunami</item>
+        <item>Flood</item>
+        <item>Cyclone</item>
+        <item>Fire</item>
+        <item>Thunderstorms</item>
+        <item>Draught</item>
+    </string-array>
+    <string name="title_activity_help_maps_activity">Map</string>
+    <string name="title_activity_help_activity">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_relief_activity">Map</string>
+</resources>

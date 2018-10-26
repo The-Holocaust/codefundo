@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527790128911",
+    "firebase_url": "https://codefundo99.firebaseio.com",
+    "project_id": "codefundo99",
+    "storage_bucket": "codefundo99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527790128911:android:9b985a04098477b9",
+        "android_client_info": {
+          "package_name": "com.example.anmolbhat.codefundo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527790128911-42l5gkdubcb82snk96e7djncvva3nr1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anmolbhat.codefundo",
+            "certificate_hash": "f51ce0ba6dfc5c468657bbf8f73b4d60d6d1d7b6"
+          }
+        },
+        {
+          "client_id": "527790128911-g3b6ppo90vb2eoavrtv6eft0agts270u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFGnOhVEAbq7vvvpJZRB7MfzwPpX4dVts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527790128911-g3b6ppo90vb2eoavrtv6eft0agts270u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
